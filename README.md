@@ -1,5 +1,5 @@
 
-# JavaScript Projects
+# Alarm clock Project
 This is a project which is given by code with harry. <br>
 
 <li>This is a repository for Alarm Clock Developed using  JavaScript, HTML, CSS.</li>
